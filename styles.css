@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@100&family=Shizuru&display=swap');
+
+body{
+    background-color:beige;
+
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:5%;
+    margin-bottom:5%;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+a:link{
+    text-decoration:none;
+}
+
+h2{
+    text-align:center;
+    color:rgb(65, 5, 65);
+    border-style:dotted;
+    
+}
+
+p{
+    color:rgb(9, 49, 49);
+    
+}
+
+p.underlinedText{
+    text-decoration:underline;
+    text-align:right;
+}
+
+h1{
+    font-size: 200%;
+    
+}
+
+h1.search{
+    border-style:ridge;
+    border-radius: 5px 5px 5px 5px;
+    color:grey;
+}
